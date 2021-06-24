@@ -42,6 +42,12 @@ I'm a software development student who loves technology and everything related i
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="insta" width="40" height="40" style="max-width:100%;"></img>
 </a>
 
+<a href="mailto:joaovictorlizsilveira@gmail.com" target="_blank" rel="external">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="email" width="40" height="40" style="max-width:100%;"></img>
+</a>
+
+
+
 
 
 <!--
