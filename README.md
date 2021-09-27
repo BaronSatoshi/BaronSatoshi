@@ -18,7 +18,7 @@ I'm a software development student who loves technology and everything related i
 **Back-End Skills** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
+
 
 **Other skills and knowledge**<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
