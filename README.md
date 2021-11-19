@@ -27,7 +27,6 @@ I'm a software development student who loves technology and everything related i
 **Other skills and knowledge**<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaronSatoshi&show_icons=true&theme=highcontrast)
