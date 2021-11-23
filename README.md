@@ -31,6 +31,8 @@ I'm a software development student who loves technology and everything related i
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="html" width="50" height="50" style="max-width:100%;"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaronSatoshi&show_icons=true&theme=highcontrast)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaronSatoshi&layout=compact&langs_count=7&theme=dark"/>
+
 
 ### Connect with me ###
 
