@@ -21,6 +21,10 @@ I'm a software development student who loves technology and everything related i
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://firebirdsql.org/file/about/firebird-logo-48.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://pics.freeicons.io/uploads/icons/png/3551373941551941187-512.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+
+**Mobile Skills** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 
 
 
