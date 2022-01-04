@@ -3,7 +3,7 @@
 I'm a software development student who loves technology and everything related it, I always try to learn new things and improve myself in this area.
 
 - I live in :brazil:, from the state of Rio Grande do Sul.
-- Enthusiast about the best **web development** technologies.
+- Enthusiast about the best **web development** and **mobile** technologies.
 - I love to talk about: Programming, Science, Games, Animes, Technology.
 - Coffee Lover ☕.
 
